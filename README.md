@@ -3,6 +3,8 @@
 This project is an intelligent agent-based pipeline using [CrewAI](https://docs.crewai.com/) to automate and enhance the job application process for engineering roles. It leverages advanced tools and LLMs to analyze resumes, research job postings, and prepare candidates for interviews.
 
 ---
+## What is RESUME BUILDER
+![Job Assistant Demo](image-1.png)
 
 ## 🚀 Key Features
 
